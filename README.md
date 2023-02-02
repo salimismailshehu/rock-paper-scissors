@@ -34,8 +34,3 @@ $ python3 train.py
 ```sh
 $ python3 test.py <path_to_test_image>
 ```
-
-6. Play the game with your computer!
-```sh
-$ python3 play.py
-```
